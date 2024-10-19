@@ -1,7 +1,4 @@
 
-### `APPROACH.md`
-
-```markdown
 # Approach for Task Management 
 
 ## Project Setup
