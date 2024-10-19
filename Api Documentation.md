@@ -1,5 +1,3 @@
-### API Documentation for Task Management API
-
 # Task Management API Documentation
 
 ## Base URL
